@@ -12,8 +12,9 @@
 ## Mes compétences
 
 - **Frontend** : React, TypeScript, Tailwind CSS, Vite (avec beaucoup d’aide IA)  
-- **Backend** : Node.js, Express, JWT (bases, en apprentissage)  
-- **Outils & méthodologies** : Git, testing (Jest), CI/CD (notions)  
+- **Backend** : Node.js, Express, JWT (bases, en apprentissage)
+- **Langages classiques** : Java, PHP
+- **Outils & méthodologies** : Git
 ---
 
 ## Sur ce profil
@@ -24,7 +25,3 @@
 ---
 
 > « L’apprentissage est une aventure sans fin. »
-
----
-
-**N’hésite pas à me suivre ou à discuter !**
