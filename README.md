@@ -1,8 +1,5 @@
 # Salut, moi c’est Nathanaël 👋
 
-![Avatar](https://github.com/Nat392.png)
-
-Je m’appelle Nathanaël VIELLARD
 🎓 Étudiant en Philosophie & Sociologie à l’Université Toulouse Jean Jaurès  
 🧠 Passionné par l’organisation, l’entraînement cognitif et le développement personnel  
 🤖 J’utilise beaucoup l’IA pour m’aider dans mes projets et dans le code  
