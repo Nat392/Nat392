@@ -14,21 +14,12 @@
 - **Frontend** : React, TypeScript, Tailwind CSS, Vite (avec beaucoup d’aide IA)  
 - **Backend** : Node.js, Express, JWT (bases, en apprentissage)  
 - **Outils & méthodologies** : Git, testing (Jest), CI/CD (notions)  
-- **Autres intérêts** : Philosophie des sciences, sociologie de la famille, entraînement cognitif
-
 ---
 
 ## Sur ce profil
 
 - Projets perso liés à l’apprentissage, à l’organisation, au code propre (avec IA)  
 - Expériences en gestion de communauté et administration de serveurs (Sulfuritium)  
-
----
-
-## Statistiques GitHub
-
-![Nat392 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nat392&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nat392&layout=compact&theme=radical)
 
 ---
 
